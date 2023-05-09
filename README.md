@@ -2,8 +2,8 @@
 Projeto da disciplina WDCM
 
 Autores: Beatriz Machado, Luanna Pimenta, Maria Rita 
-Tema: Dança- É um site informativo de alguns tipos de dança.
+Tema: Viagem
+Um site sobre viagens, onde vamos apresentar 6 destinos, falando um pouco de cada destino e dizer os seus pontos turisticos.Gre
+Destinos: Paris, India, Veneza, Japão, Nova Iorque, Grecia
 
-Escolha dos tipos de dança: bale, hiphop, kizomba, rumba, tango, zumba
 
-Descrever
