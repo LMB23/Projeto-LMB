@@ -103,3 +103,17 @@ p{
 .fa-instagram { 
   background: cadetblue;
   color: deeppink;}
+
+  #destinos { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+  }
+
+ .destino { width: 30%;
+  text-align: center; } 
+ 
+ .destino img { 
+  max-width: 100%;
+  text-align: center;
+  }
